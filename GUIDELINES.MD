@@ -4,9 +4,7 @@
 
 1.  Make sure you have the latest version of main branch.  
 
-1.   Read this [Article](https://guides.github.com/features/mastering-markdown/) about Markdown.
-
-1.   Download [this](https://docs.google.com/spreadsheets/d/11uI5wwJCMVpL7jSva6pRAgVWg-I-IN_9-yDrks2ZZ3w/edit#gid=0) sheet to find the right place for the company you want to add.  
+1.   Read this [Article](https://guides.github.com/features/mastering-markdown/) about Markdown.  
 
 1.   Add the company STRICTLY in the increasing alphabetical order. See this small [article](https://support.google.com/docs/answer/3540681?hl=en&co=GENIE.Platform%3DAndroid).  
 
@@ -30,5 +28,5 @@
 1. fork the latest main.  
 2. There will be a file categories.md, where we have mentioned domain names of companies, feel free to add new ones.  
 3. Now add the companies from readme.md to their respective categories alphabetically.
-4. make a PR :)
+4. make a PR :
 * NOTE: As of now we are adding these changes only to categories.md only once we decided about how we should organize the new section on readme.md(on front pagre which people will see) till then no need to add add new section in readme.md. 
