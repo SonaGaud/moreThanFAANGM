@@ -529,7 +529,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.ncr.com/careers">NCR Corporation</a></li>
 <li><a href="https://www.netapp.com/company/careers/">NetApp</a>      </li>
 <li><a href="https://www.netcracker.com/careers/">Netcracker</a></li>
-<li><a href="https://https://www.neteasegames.com/careers/in">NetEase Games</a></li>
+<li><a href="https://www.neteasegames.com/careers/in">NetEase Games</a></li>
 <li><a href="https://jobs.netflix.com/">Netflix</a>  </li>
 <li><a href="https://netmeds.darwinbox.in/ms/candidate/careers">Netmeds</a></li>
 <li><a href="https://jobs.nike.com/">Nike</a></li>
